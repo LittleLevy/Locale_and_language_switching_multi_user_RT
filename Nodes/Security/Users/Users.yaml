@@ -1,0 +1,65 @@
+Name: Users
+Id: g=651582ccbd14441de24699fd8f143578
+Type: FolderType
+Children:
+- Name: User1
+  Id: g=0f5a7fa460713f7c67a474b2673ae362
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=2025704d779fb464e22898e4f5c34293
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-IT"
+  - Name: Language
+    Id: g=846fd76c789dd2d18ae758723cd0bf94
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-IT"
+- Name: User2
+  Id: g=2a238625b1034e875cde127d7a8bf6c7
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=de42677d12c4928168486151ef1ac5e6
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+  - Name: Language
+    Id: g=06912a27c001e80e3c215a05f46d9c0f
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+- Name: User3
+  Id: g=321c1f6ce70db1e7338ddc067b11ee27
+  Type: UserType
+  Children:
+  - Name: LocaleId
+    Id: g=586cc0c25f0a9ccd697e6413db2735f5
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "pl-PL"
+  - Name: Language
+    Id: g=0ead3237bce8872f778247971fbfd190
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "pl-PL"
+- Name: User4
+  Id: g=57497c2b61b1c657718dd7a9ba692fe2
+  Type: UserType
+- Name: User5
+  Id: g=3380134f9efa6c9ad8aba7804499693c
+  Type: UserType
+  Children:
+  - Name: Language
+    Id: g=53b1e025999b7d60aae7911991f5c9bd
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "cmn-TW"

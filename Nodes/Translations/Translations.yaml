@@ -1,0 +1,39 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [24,5],
+    "Body": [
+     "","en-US","it-IT","pl-PL","cmn-TW",
+     "LoginFormAuthenticationFailed","Authentication failed","","","",
+     "LoginFormLoginSuccessful","Login successful","","","",
+     "Confirm password","Confirm password","","","",
+     "LoginFormPasswordExpired","Password expired","","","",
+     "Your password is expired. Please enter a new one","Your password is expired. Please enter a new one","","","",
+     "Current User:","Current User:","","","",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match","","","",
+     "Change password","Change password","","","",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation","","","",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used","","","",
+     "LoginChangePasswordFormUserNotFound","User not found","","","",
+     "LoginChangePasswordFormPasswordTooShort","Password too short","","","",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password","","","",
+     "New password","New password","","","",
+     "Password","Password","","","",
+     "Logout","Logout","","","",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently","","","",
+     "Login","Login","","","",
+     "Old password","Old password","","","",
+     "English","English","Inglese","Angielski","英语",
+     "Italian","Italian","Italiana","Włoski","",
+     "Polish","Polish","Polacco","Polski","",
+     "Mandarin","Mandarin","Mandarina","",""
+    ]
+   }
